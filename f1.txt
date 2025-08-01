@@ -1,3 +1,6 @@
 good morning india
 How are you
 please wait...........
+
+int a=20;
+int b=20;
