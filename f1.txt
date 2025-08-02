@@ -6,3 +6,4 @@ int a=20;
 int b=20;
 
 String str ="Welcom to india"
+boolean b="true"
